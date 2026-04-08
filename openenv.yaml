@@ -1,0 +1,13 @@
+name: workflow-ai-env
+description: Autonomous AI agent for office workflow automation
+version: 1.0
+
+tasks:
+  - name: email_triage
+    difficulty: easy
+
+  - name: bug_prioritization
+    difficulty: medium
+
+  - name: code_review
+    difficulty: hard
