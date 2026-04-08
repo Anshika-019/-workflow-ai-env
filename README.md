@@ -65,3 +65,5 @@ This project aims to simulate such environments so that AI agents can learn to a
   "input_data": "list"
 }
 
+# -workflow-ai-env
+Autonomous AI environment for real-world office workflow tasks (OpenEnv Hackathon)
