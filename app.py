@@ -14,5 +14,9 @@ def start():
     time.sleep(2)
     run()
 
+@app.post("/reset")
+def reset():
+    return {"task": ..., "input_data": ...}
+
 # background run
 threading.Thread(target=start).start()
